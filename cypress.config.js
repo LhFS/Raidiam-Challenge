@@ -12,7 +12,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    experimentalNetworkStubbing: true,
     retries: {
       runMode: 2,
       openMode: 0,
