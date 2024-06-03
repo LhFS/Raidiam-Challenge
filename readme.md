@@ -1,4 +1,4 @@
-# Raidiam Assesment
+# Raidiam Assessment
 
 This project is designed to test the Customer Data API using Cypress. It includes various test cases to ensure the API endpoints are functioning correctly. The tests are written in JavaScript and are intended to be run using Cypress. Additionally, the project is configured to run tests in a CI/CD pipeline using GitHub Actions.
 
