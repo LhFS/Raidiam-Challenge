@@ -37,7 +37,7 @@ Before you can run the tests, you need to set up and run the Customer Data API s
 
 - Alternatively, to run the tests in headless mode, use:
   ```sh
-   npx cypress open
+   npx cypress run
   ```
 
 ## Test Cases
